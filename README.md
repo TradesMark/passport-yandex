@@ -6,7 +6,7 @@
 * npm install -S express-session
 * npm install -S passport
 * npm install -S passport-yandex
-* npm install -S passport-github2
+* npm install -S passport-google-oauth2
 
 Старт 
 
